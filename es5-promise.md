@@ -25,7 +25,7 @@ new Promise(function() {
 
 ```js
 function MyPromise(executor) {
-
+  
 }
 
 MyPromise.prototype.then = function then() {
